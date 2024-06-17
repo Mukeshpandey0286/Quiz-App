@@ -1,0 +1,132 @@
+[
+  {
+    "question": "A flashing red traffic light signifies that a driver should do what?",
+    "options": {
+      "A": "stop",
+      "B": "speed up",
+      "C": "proceed with caution",
+      "D": "honk the horn"
+    },
+    "answer": "stop"
+  },
+  {
+    "question": "A knish is traditionally stuffed with what filling?",
+    "options": {
+      "A": "potato",
+      "B": "creamed corn",
+      "C": "lemon custard",
+      "D": "raspberry jelly"
+    },
+    "answer": "potato"
+  },
+  {
+    "question": "A pita is a type of what?",
+    "options": {
+      "A": "fresh fruit",
+      "B": "flat bread",
+      "C": "French tart",
+      "D": "friend bean dip"
+    },
+    "answer": "flat bread"
+  },
+  {
+    "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+    "options": {
+      "A": "landscape",
+      "B": "caricature",
+      "C": "still life",
+      "D": "Impressionism"
+    },
+    "answer": "caricature"
+  },
+  {
+    "question": "A second-year college student is usually called a what?",
+    "options": {
+      "A": "sophomore",
+      "B": "senior",
+      "C": "freshman",
+      "D": "junior"
+    },
+    "answer": "sophomore"
+  },
+  {
+    "question": "Excluding wisdom teeth, how many adult teeth do humans have?",
+    "options": {
+      "A": "28",
+      "B": "32",
+      "C": "35",
+      "D": "40"
+    },
+    "answer": "28"
+  },
+  {
+    "question": "How many innings are there in a regular Major League Baseball game?",
+    "options": {
+      "A": "seven",
+      "B": "eight",
+      "C": "nine",
+      "D": "ten"
+    },
+    "answer": "nine"
+  },
+  {
+    "question": "If you are truly afraid of the dark, what do you suffer from?",
+    "options": {
+      "A": "hypnophobia",
+      "B": "cryptophobia",
+      "C": "hadephobia",
+      "D": "nyctophobia"
+    },
+    "answer": "nyctophobia"
+  },
+  {
+    "question": "In computer terminology, what does the acronym 'FTP' stand for?",
+    "options": {
+      "A": "file transfer protocol",
+      "B": "full time portal",
+      "C": "full text processor",
+      "D": "free to print"
+    },
+    "answer": "file transfer protocol"
+  },
+  {
+    "question": "In computer terminology, what does the acronym 'ISP' stand for?",
+    "options": {
+      "A": "Individual Site Privacy",
+      "B": "Investment Stability Plan",
+      "C": "Internal Security Position",
+      "D": "Internet Service Provider"
+    },
+    "answer": "Internet Service Provider"
+  },
+  {
+    "question": "In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?",
+    "options": {
+      "A": "Statue of Liberty",
+      "B": "Empire State Building",
+      "C": "World Trade Center",
+      "D": "Chrysler Building"
+    },
+    "answer": "World Trade Center"
+  },
+  {
+    "question": "In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
+    "options": {
+      "A": "talking car",
+      "B": "winged horse",
+      "C": "magic carpet",
+      "D": "hot air balloon"
+    },
+    "answer": "magic carpet"
+  },
+  {
+    "question": "In the card game blackjack, how much are a queen and a king worth-together?",
+    "options": {
+      "A": "11",
+      "B": "15",
+      "C": "20",
+      "D": "21"
+    },
+    "answer": "20"
+  }
+]
